@@ -1,20 +1,3 @@
-{
-    "baseUrl" : "http://172.21.0.14:3080",
-    "permissions-api-url" : "http://172.21.0.1:8081",
-    "dac-portal-api-url" : "http://172.21.0.1:9090",
-    "chromeWebSecurity": false,
-    "integrationFolder" : "cypress/e2e",
-    "defaultCommandTimeout" : 10000,
-    "retries" : {
-        "runMode" : 5
-    },
-    "env" : {
-        "logoutUrl" : "http://172.21.0.12:8080/auth/realms/IPC/protocol/openid-connect/logout?redirect_uri=http://172.21.0.14:3080",
-        "regularUsername" : "user-1",
-        "regularUserPassword" : "user-1",
-        "adminUsername" : "dac-admin-1",
-        "adminUserPassword" : "dac-admin-1",
-        "memberUsername" : "dac-member-1",
-        "memberUserPassword" : "dac-member-1"
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae9ec9c585810070361e11f2f4882fb79b3d02e45c7bc5cf85af27823a4e56cf
+size 719

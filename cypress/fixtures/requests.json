@@ -1,11 +1,3 @@
-[
-    {
-        "user": "2a32de1e-8da9-4222-a824-549bf632544b",
-        "requests": [
-            {
-                "fileId": "https://test-url/TF001",
-                "comment": "hey I need access!"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:29019f315e5fffca116828428ec27d92bedaba4db77d0e6c81debfefa69598e2
+size 231

@@ -1,14 +1,3 @@
-{
-  "name": "iPC DAC portal",
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ae9ec9754cebfbad78445dc1cca0e51f41cdfbf867ce4ca3fd6f5e0f2f41bb6
+size 268
